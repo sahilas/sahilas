@@ -12,5 +12,5 @@ A Desi Web Developer | Web Security Analyst</h3>
 	<a href="https://www.instagram.com/sahil.as.hussain/" rel="nofollow"><img alt="Instagram" src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png" style="max-width:100%;"></a>
 	<a href="https://twitter.com/sahilhussainas" rel="nofollow"><img alt="Twitter" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png" style="max-width:100%;"></a>
 <hr>
-<img align="center" alt="Sahil's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sahilas&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" style="max-width:100%;">
+<img align="center" alt="Sahil's github stats" src="https://github-readme-stats.vercel.app/api?username=sahilas&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" style="max-width:100%;">
 </p>
