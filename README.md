@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sahil Hussain</h1>
 <h3 align="center">
-A Desi Web Developer | Opensource Enthusiast</h3>
+👨🏻‍💻A Desi Full-Stack Web Developer | 📊Web Data Visualizer | ♦️Rubyist</h3>
 <p align="center">
 	<a href="https://github.com/sahilas"><img alt="GitHub" src="https://img.icons8.com/color-glass/github" width="50"></a>
 	<a href="https://www.linkedin.com/in/sahil-hussain/" rel="nofollow"><img alt="LinkedIn" src="https://img.icons8.com/color-glass/linkedin" width="50"></a>
